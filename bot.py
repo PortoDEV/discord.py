@@ -208,7 +208,7 @@ async def avatar(ctx, member : discord.Member = None):
 """ @client.command(name = "pix")
 async def pix(ctx,*,args):
     nome = "ARTHUR PORTO CAMBOA" 
-    telefone = "11995312006"
+    telefone = "XXXXXXXXX"
     cidade = "SAO PAULO"
     valor = args
     pix = PixQrCode(nome,telefone,cidade,valor)
